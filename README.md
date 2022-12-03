@@ -47,5 +47,4 @@
 
   
 
-![snake gif](https://github.com/Kleydsonpessanha/Kleydsonpessanha/blob/output/github-contribution-grid-snake.svg)
 
