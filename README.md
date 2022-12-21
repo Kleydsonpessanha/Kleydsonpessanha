@@ -13,7 +13,7 @@
 
 * Sou desenvolvedor Frond-end, estou em busca da minha primeira oportunidade
 * Atualmente estou estudando JavaScript.
-* Acesse meu portfólio pessoal: [![Portfolio](https://kleydsonpessanha.github.io/portfolio/)
+* Acesse meu portfólio pessoal: [![Portfolio][![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kleydsonpessanha.github.io/portfolio/)
 
 ## 📞 Contato
 
