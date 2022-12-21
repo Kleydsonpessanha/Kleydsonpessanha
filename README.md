@@ -1,7 +1,7 @@
   <h1>Olá! 👋, Eu sou Kleydson Pessanha</h1>
-- 🌱 Atualmente estou aprendendo JS e React js 
+- 🌱 Atualmente estou aprendendo JS. 
 <br><br>
-- 📫 Se quiser falar comigo é so me mandar um email: joaoh.tupinamba@gmail.com , ou ir no finalzinho do ReadMe e verfificar minhas redes sociais!
+- 📫 Se quiser falar comigo da uma olhadinha nas  minhas redes sociais!
 
 <div>
   <h2>⚙️ GitHub Analytics</h2>
@@ -13,7 +13,7 @@
 
 * Sou desenvolvedor Frond-end, estou em busca da minha primeira oportunidade
 * Atualmente estou estudando JavaScript.
-* Acesse meu portfólio pessoal: [![Portfolio](https://kleydsonpessanha.github.io/portfolio//)
+* Acesse meu portfólio pessoal: [![Portfolio](https://kleydsonpessanha.github.io/portfolio/)
 
 ## 📞 Contato
 
@@ -35,13 +35,6 @@
       <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=F7DF1E">
       <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=F7DF1E">
       <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    ## <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    ## <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    ## <img align="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    ## <img align="center" alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    ## <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    ## <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    ## <img align="center" alt="Python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
   </div>
   <br>
@@ -51,8 +44,7 @@
     <div style="display: inline_block">
       <a href="https://www.linkedin.com/mwlite/in/kleydson-pessanha-990546251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://instagram.com/kleydsonpessanhaofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      ##<a href = "mailto:joaoh.tupinamba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>    
+     </div>    
 </div>
 
 ## 🛠 Principais tecnologias
